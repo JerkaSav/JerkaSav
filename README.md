@@ -9,10 +9,11 @@ I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
 
 ---
 #### Languages i feel comfortable with:
-1. Javascript (Vue.js and native)
+1. Javascript (Vue.js and native) *(Intermedite skill)*
 2. HTML
 3. CSS
-4. SCSS
+4. SCSS *(Intermedite skill)*
+
 
 #### Languages/tools that i work with in the education:
 1. PHP
