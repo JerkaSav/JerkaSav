@@ -22,4 +22,5 @@ I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
 
 
 ## Other stuff
-Outside of school i manage [GAUPA bandpage](https://gaupaband.com/) with the use of WordPress.
+Outside of school i manage [GAUPA bandpage](https://gaupaband.com/) with the use of WordPress.  
+I'm also working on a bookstore project [Då och Nu](https://github.com/JerkaSav/do-och-nu) in vue.js to keep the skills intact. *(it is still in the early stages)*
