@@ -1,6 +1,8 @@
 ### Hi there 👋
--I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
--[More info about the education](https://www.iths.se/courses/frontend/)
+## I'm Erik Sävström
+---
+I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
+[More info about the education](https://www.iths.se/courses/frontend/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerkaSav&show_icons=true&theme=radical)
 <!--
