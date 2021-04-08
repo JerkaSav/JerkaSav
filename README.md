@@ -4,18 +4,17 @@
 I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
 [More info about the education](https://www.iths.se/courses/frontend/)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerkaSav&show_icons=true&theme=radical)
-<!--
-**JerkaSav/JerkaSav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+#### Languages i feel comfortable with:
+1. Javascript (Vue.js and native)
+2. HTML
+3. CSS
+4. SCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages/tools that i work with in the education:
+1. PHP
+2. SQL (T-SQL for the most part)
+3. Figma (for UX/UI design)
