@@ -9,13 +9,13 @@ I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
 
 ---
 #### Languages i feel comfortable with:
-1. Javascript (Vue.js and native) *(Intermedite skill)*
-2. HTML *(comfortable)*
-3. CSS  *(comfortable)*
-5. SCSS *(Intermedite skill)*
+- Javascript (Vue.js and native) *(Intermedite skill)*
+- HTML *(comfortable)*
+- CSS  *(comfortable)*
+- SCSS *(Intermedite skill)*
 
 
 #### Languages/tools that i work with in the education:
-1. PHP *(basic)*
-2. SQL (T-SQL for the most part) *(basic)*
-3. Figma (for UX/UI design) *(comfortable)*
+- PHP *(basic)*
+- SQL (T-SQL for the most part) *(basic)*
+- Figma (for UX/UI design) *(comfortable)*
