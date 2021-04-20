@@ -8,11 +8,8 @@ I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerkaSav&show_icons=true&theme=radical)
 
 
-#### Languages i feel comfortable with:
+#### Skills:
 - Javascript (Vue.js and native), HTML, CSS  *(Intermedite skill)*
-
-
-#### Languages/tools that i work with in the education:
 - PHP *(basic)*
 - SQL (T-SQL for the most part) *(basic)*
 - Figma (for UX/UI design) *(comfortable)*
