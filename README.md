@@ -9,7 +9,7 @@ I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
 
 
 #### Skills:
-- Javascript (Vue.js and native), HTML, CSS  *(Intermedite skill)*
+- Javascript (Vue.js, react and native), HTML, CSS  *(Intermedite skill)*
 - PHP *(basic)*
 - SQL (T-SQL for the most part) *(basic)*
 - Figma (for UX/UI design) *(comfortable)*
