@@ -18,6 +18,6 @@ I'm currently studing Frontend developer at IT-Högskolan, Gothenburgh.
 ## Other stuff
 Outside of school i manage [GAUPA bandpage](https://gaupaband.com/) with the use of WordPress.
 
-Started some first steps to create a text based adventure game [The Shadow](https://www.figma.com/file/xZSrUHlyfyhgVFspH0W5F1/The-Shadow?node-id=0%3A1).
+Started some first steps to create a text based adventure game The Shadow. [Figma](https://www.figma.com/file/xZSrUHlyfyhgVFspH0W5F1/The-Shadow?node-id=0%3A1), [Repo](https://github.com/JerkaSav/The-Shadow).
 
 I'm also working on a bookstore project [Då och Nu](https://github.com/JerkaSav/do-och-nu) in vue.js to keep the skills intact. *(it is still in the early stages)*
